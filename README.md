@@ -1,1 +1,1 @@
-# M---Tech-IHA-Bot
+# M-Tech-IHA-Bot
